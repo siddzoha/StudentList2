@@ -1,1 +1,1 @@
-Hi guys, this is my first commit in my git first repository
+Hi guys, this is my first commit in my first git repository
