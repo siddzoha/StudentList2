@@ -8,7 +8,7 @@ package studentlist;
 // Date: Wed Sept 10
 /**
  *
- * @author Megha Patel
+ * @author Zohaib Siddiqui
  */
 public class Student {
 
